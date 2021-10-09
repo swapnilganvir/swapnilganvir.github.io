@@ -16,12 +16,9 @@ function values(val){
             val.innerHTML=numv;
         }
         console.log(Number(val_1.innerHTML));
-        ☑️
     })
 }
-val_1.addEventListener('click', function(){
-    values(val_1);
-});
+val_1.addEventListener('click', ()=>values(val_1));
 
 operator.addEventListener('click',function(){
     operator.innerHTML='';
@@ -30,9 +27,7 @@ operator.addEventListener('click',function(){
     })
 })
 
-val_2.addEventListener('click', function(){
-    values(val_2);
-});
+val_2.addEventListener('click', ()=>values(val_2));
 
 equal.addEventListener('click', function(){
     if(operator.innerHTML==='+'){
