@@ -1,1 +1,3 @@
-# Visit [swapnilganvir.github.io](https://swapnilganvir.github.io/).
+# Use [calculator](https://swapnilganvir.github.io/).
+
+<http://www.example.com>
