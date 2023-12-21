@@ -1,3 +1,1 @@
-# <swapnilganvir.github.io>
-
-[link text itself]: http://www.reddit.com
+Visit [swapnilganvir.github.io](https://swapnilganvir.github.io/).
