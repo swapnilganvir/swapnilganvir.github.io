@@ -1,5 +1,8 @@
 # swapnilganvir.github.io/ : [link](https://swapnilganvir.github.io/ "My Calculator")
 
+Canva site design
+1. Hotel website - [link](https://swapnil123hotel.my.canva.site/#home)
+   
 React Apps
 1. TodoList with Api integration - [link](https://codesandbox.io/p/sandbox/todolist-with-api-integration-f7tzj)
 2. TodoList_colorful - [link](https://codesandbox.io/p/sandbox/todo-list-k7soe)
